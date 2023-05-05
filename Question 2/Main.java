@@ -107,19 +107,5 @@ class Main{
     public static void main(String[] args) {
         Car car1=new Car();
         car1.caclulate();
-        /*
-        Engine Fixing
-        Clutch Fixing
-        Brake Fixing
-        Gear Fixing
-        */
-        /*
-ServiceCode Service           Hatchback  Sedan   SUV
-BS01        Basic Servicing  ₹ 2000     ₹ 4000  ₹ 5000
-EF01        Engine Fixing    ₹ 5000     ₹ 8000  ₹ 10000
-CF01        Clutch Fixing    ₹ 2000     ₹ 4000  ₹ 6000
-BF01        Brake Fixing     ₹ 1000     ₹ 1500  ₹ 2500
-GF01        Gear Fixing      ₹ 3000     ₹ 6000  ₹ 8000
-*/
     }
 }
